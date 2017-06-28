@@ -1,8 +1,10 @@
 ---
 title: About AI.diamonds
 permalink: "/about/"
-layout: page
 tags: about
+layout: page
 ---
 
-Copyright 2016 AI.diamonds℠. All rights reserved.
+Artificial Intelligence blog.
+
+Copyright 2017 AI.diamonds℠. All rights reserved.
